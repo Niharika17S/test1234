@@ -1,1 +1,2 @@
 this is a good change
+this is a new line
